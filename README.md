@@ -1,4 +1,4 @@
-**This Giveaway bot was created by 0_0#6666**
+**This Giveaway bot was created by ANTOR#8129
 
 **IN CONFIG.JSON DO NOT CHANGE ANY VARIABLE THE everyoneMention VARIABLE IS FOR THE EVERYONE MENTION WHEN A NEW GIVEAWAY OCCURS AND EVERYTHING ELSE IS SELF EPLAINATORY JUST CHANGE THE VALUES 
 INSIDE "" TO MAKE YOUR BOT FUNCTION PROPERLY!**
@@ -18,4 +18,4 @@ MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IF YOU DO NOT USE A COMMAND EVERY HALF AN HOUR ON REPL.IT HOSTING THE BOT DIES, CAN BE REVIVED BY RESTARTING IT``
 
 # Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/@MRBDFFBD/GiveawayBot-4#README.md)
